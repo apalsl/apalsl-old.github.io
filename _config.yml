@@ -15,7 +15,7 @@ url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'HRLEE'
+  name:           'hrlee'
 #  url:            https://twitter.com/
 
 paginate:         5
