@@ -1,5 +1,5 @@
 ---
-title: "2019-10-21 Java Environment"
+title: "Linux VSCODE 자바 컴파일"
 layout: post
 ---
 

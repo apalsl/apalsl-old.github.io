@@ -1,5 +1,5 @@
 ---
-title: "2019-10-18 Python Environment"
+title: "윈도우에 파이썬 환경변수, pip 설치"
 layout: post
 ---
 
