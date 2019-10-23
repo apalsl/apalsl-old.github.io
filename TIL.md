@@ -12,7 +12,7 @@ published: true
 <ul>
     {% capture year %}{{currentyear}}{% endcapture %} 
   {% endif %}
-  {% if {{post.tag == "cant"}} %}
+  {% if {{post.tag == "til"}} %}
 <li>{{post.date | date: "%b %-d"}} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endif %}
 {% endfor %}
