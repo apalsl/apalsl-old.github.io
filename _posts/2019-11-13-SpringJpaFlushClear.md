@@ -1,6 +1,7 @@
 ---
 title: "[Spring] JPA, persist, flush, clear"
 layout: post
+comments : true
 ---
 
 spring boot에서 사용하는 persist, flush, clear 정의 및 이해
