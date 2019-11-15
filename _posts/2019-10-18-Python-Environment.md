@@ -1,6 +1,7 @@
 ---
 title: "윈도우에 파이썬 환경변수, pip 설치"
 layout: post
+comments : true
 ---
 
 ###  Python Windows 환경 변수 설정

@@ -1,6 +1,7 @@
 ---
 title: "자주쓰는 git 명령어"
 layout: post
+comments : true
 ---
 
 

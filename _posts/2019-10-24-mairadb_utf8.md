@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[MariaDB] 한글 깨짐"
+comments : true
 ---
 
 create() Test를 실행하는데 SQL Error: 1366, SQLState: 22007가 발생한다.

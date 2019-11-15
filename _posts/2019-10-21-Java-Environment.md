@@ -1,6 +1,7 @@
 ---
 title: "Linux VSCODE 자바 컴파일"
 layout: post
+comments : true
 ---
 
 ###  VSCODE에서 JAVA 개발환경 구성하기

@@ -1,6 +1,7 @@
 ---
 title: "[Spring] H2 Database 연동 실패"
 layout: post
+comments : true
 ---
 
 현재 사용하는 org.springframework.boot 2.1.10 와

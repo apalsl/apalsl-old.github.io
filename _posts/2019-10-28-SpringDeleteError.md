@@ -1,6 +1,7 @@
 ---
 title: "[Spring] GetMapping을 찾지 못할때"
 layout: post
+comments : true
 ---
 
 ```java

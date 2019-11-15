@@ -1,6 +1,7 @@
 ---
 title: "[Spring] Repository Null"
 layout: post
+comments : true
 ---
 
 

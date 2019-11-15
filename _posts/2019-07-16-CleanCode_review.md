@@ -2,6 +2,7 @@
 title: "CleanCode Review"
 layout: post
 tag: review
+comments : true
 ---
 
 
